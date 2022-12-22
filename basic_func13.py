@@ -7,4 +7,6 @@ def main(a):
     Returns:
         float: the absolute value.
     '''
-    return
+    n=pow(a,1/2)
+    return n
+print(main(9))

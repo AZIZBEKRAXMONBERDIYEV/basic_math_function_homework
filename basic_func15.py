@@ -8,4 +8,8 @@ def main(a, b):
     Returns:
         int: the result.
     '''
-    return
+    n=a%b
+    return n
+print(main(23,5))
+    
+    
